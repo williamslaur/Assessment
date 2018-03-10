@@ -1,0 +1,103 @@
+# Assessment 1
+-In this  assessment we are going to evaluate your knowledge of CSS selectors and CSS properties.  You are welcome to use any resources available to complete the work except your peers and the instructor.
+-
+-You may ask the instructor for clarification on any questions or parts. Skip over any parts you get stuck on.  
+-
+-Create a Github Repository to submit your completed work. 
+-
+-
+-## Grading Criteria (in order of priority and rough percentange)
+-- Completeness -  30%
+-- Valid HTML and CSS - 30%
+-- Accuracy to image - 20%
+-- Cleanliness of Code - 10%
+-- Accuracy of HTML5 usage - 5%
+-- Usefulness of comments - 5%
+-
+-## Part 1
+-Apply the following styles to the following element types.
+-
+-- `body`
+done -  - set the text color to `#3a3a3a`
+done -  - set the background to `#e3e3e3`
+done -  - set the default font to `Arial, Helvetica, sans-serif;`
+done -  - set all the margins to 0 pixels.
+-- `h1`
+done -    - Set the text size to 40 pixels
+-- `h2`
+done -    - Set the text size to 20 pixels
+-- `a`
+done -  - set the font color to `#3a3a3a`
+-- `h1`, `h2`, `h3`, `h4`, and `h5`
+done -  - Use a group selector to set all of these element's margins to 0 pixels
+-
+-
+-## Part 2 - Header and Wrapper
+-Apply the following styles to elements in the heading area. Replace elements with HTML5 elements if you see fit.
+-
+-- element below the comment Main Content
+done? -    - Set the background color to `#ffffff`;
+done? -    - Set the top and bottom margins to 0.
+done? -    - Center the element using left and right margins
+-- element below the comment Site Header 
+done -    - Override the font color and set it to `#ffffff`
+done -    - Add 20 pixels of spacing inside of it
+done -    - Set the background color to `#89bdd3` or your brand color
+-
+-- `h2` inside of the Site Header
+done -    - make the text italicized 
+-
+-## Part 3 - Navigation
+-Replace elements with HTML5 elements if you see fit.
+-
+-- element below Main Navigation
+done -    - set the background color to `#9ad3de` or your brand color
+done -    - Add a top and bottom border that is 1 pixel thick solid and `#3a3a3a`
+-- `a` inside the element Main Navigation
+done -    - Make the text bold
+done -    - Add 20 pixels of spacing inside of it
+done -    - Remove the underline 
+done -    - Show an underline when hovered over
+done -    - Make them display in a single line.
+-
+-## Part 4 - Article
+-Replace elements with HTML5 elements if you see fit.
+-
+-- element  below the Article comment
+done -    - Float the content to the left;
+done -    - Add 20 pixels of spacing inside of it
+done -    - Set its width to 60%
+-- Article Header
+done -    - Center align all content in this element
+done -    - Add a 20 pixel bottom margin
+-- Article Footer 
+done -    - Add a top and bottom border that is 1 pixel thick solid and `#3a3a3a`
+done -    - Center align all content in this element
+-- Image inside the Article Footer
+done -    - Add a 3 pixel border that is solid and has a color of `#3a3a3a`
+done -    - Set its border radius so it makes a complete circle
+done -    - Add 5 pixels of padding
+-
+-## Part 5 - Side Bar
+-Replace elements with HTML5 elements if you see fit.
+-
+-- Sidebar element
+done -    - Float the element to the right
+done -    - add 20 pixels of padding to the top
+done -    - set the width to 30%
+-- Sidebar item in the side bar
+done -    - Add a border that is 1 pixel thick solid and `#3a3a3a`
+done -    - Add 10 pixels pixels of spacing inside of it
+done -    - Add a 20 pixel margin to all sides
+-- List Items in the sidebar
+done -    - Add a 5 pixel margin to top and bottom.
+-
+-
+-## Part 6 - Commenting
+done -Add a comment before the closing body tag that says what you thought was the most difficult portion of the assessment.
+-
+-
+done -## Bonus - JavaScript
+-- Add a script tag before the closing `body` tag
+-- Inside the script tag create the following variable
+-    - A string and populate it with your name.
